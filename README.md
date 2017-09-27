@@ -7,4 +7,4 @@ This is simple readme file
 
 just some updates
 
-This is bound to cause trouble!
+Something is going on!
